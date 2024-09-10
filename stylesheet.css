@@ -101,6 +101,10 @@ section{
     line-height: 1;
 }
 
+.home-content .no-break{
+    white-space: nowrap;
+}
+
 .home-content h3{
     font-size: 4rem;
     margin: 1rem 0;
